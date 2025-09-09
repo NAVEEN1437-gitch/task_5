@@ -4,7 +4,7 @@
 This dashboard provides a comprehensive overview of sales, profits, and customer distribution across different regions, products, and time periods. It is designed to give quick business insights with interactive visualizations.
 
 ### 👉Tool Used : Power BI
-
+****************************************************************************************************************************************************************
 ## 📌 Dashboard Preview
 
 <img width="1112" height="630" alt="Screenshot 2025-09-09 143045" src="https://github.com/user-attachments/assets/9a2acdcf-54ea-4c90-8148-36ce1d16590f" />
