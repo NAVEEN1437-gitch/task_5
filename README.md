@@ -12,7 +12,7 @@ This dashboard provides a comprehensive overview of sales, profits, and customer
 ## 📂 Data Set :
 - sales_data_analyzed : [sales_data_analyzed.csv](https://github.com/user-attachments/files/22230749/sales_data_analyzed.csv)
 
-### Dataset contains:
+#### Dataset contains:
 
 - Rows (records): 20
   
