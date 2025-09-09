@@ -1,11 +1,11 @@
 # Task_5
-## 📊 Sales Performance Dashboard
+## 🚀 Sales Performance Dashboard
 
 This dashboard provides a comprehensive overview of sales, profits, and customer distribution across different regions, products, and time periods. It is designed to give quick business insights with interactive visualizations.
 
 #### Tool Used : Power BI
 
-## 🔹 Data Set :
+## 📂 Data Set :
 - sales_data_analyzed : [sales_data_analyzed.csv](https://github.com/user-attachments/files/22230749/sales_data_analyzed.csv)
 
 ### Dataset contains:
@@ -16,7 +16,7 @@ This dashboard provides a comprehensive overview of sales, profits, and customer
 
 **👉 So, it has 20 rows × 9 columns in total.**
 
-## 🔹 Key Highlights (KPI's)
+## 🔎 Key Highlights (KPI's)
 
 - Total Revenue: 13.97K
 
@@ -26,7 +26,7 @@ This dashboard provides a comprehensive overview of sales, profits, and customer
 
 - Total Customers: 20
 
-## 🔹 Visualizations:
+## 📊 Visualizations:
 
 - Bar Chart: Total profits by product line (Electronics, Furniture, Motorcycles)
 
@@ -36,7 +36,7 @@ This dashboard provides a comprehensive overview of sales, profits, and customer
 
 - Table: Monthly revenue and profit values (detailed breakdown)
   
-## 🔹 Filters Available(Slicers)
+## 📌 Filters Used (Slicers)
 
 - Region: Asia, Europe, North America
 
