@@ -19,7 +19,7 @@ This dashboard provides a comprehensive overview of sales, profits, and customer
   
    - Columns (features): 9(ORDERDATE, CUSTOMERNAME, TERRITORY, PRODUCTLINE, Revenue, Profit, YEAR, MONTH, QUARTER)
 
-     **So, it has 20 rows × 9 columns in total.**
+  **So, it has 20 rows × 9 columns in total.**
 
 ## 🔎 Key Highlights (KPI's)
 
