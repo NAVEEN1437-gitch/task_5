@@ -16,6 +16,9 @@ This dashboard provides a comprehensive overview of sales, profits, and customer
 
 **👉 So, it has 20 rows × 9 columns in total.**
 
+## Dashboard Preview
+<img width="1112" height="630" alt="Screenshot 2025-09-09 143045" src="https://github.com/user-attachments/assets/68bdd811-605b-4756-9611-91376475d28e" />
+
 ## 🔎 Key Highlights (KPI's)
 
 - Total Revenue: 13.97K
